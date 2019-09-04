@@ -1,0 +1,18 @@
+{
+  "generalMarketResearchDirectoryEntryRequestActionTaskReference" : "GMRDERATR710152",
+  "generalMarketResearchDirectoryEntryRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR763164",
+  "generalMarketResearchDirectoryEntryInstanceRecord" : {
+    "generalMarketResearchViewpointType" : "generalMarketResearchViewpointType",
+    "referencedMarketResearchRecord" : {
+      "marketResearchReportVersionPeriod" : "marketResearchReportVersionPeriod",
+      "marketResearchReportTypeDefinition" : "marketResearchReportTypeDefinition"
+    },
+    "generalMarketResearchViewpointDescription" : "generalMarketResearchViewpointDescription",
+    "generalMarketResearchViewpointUsage" : {
+      "employeeBusinessUnitReference" : "721330",
+      "marketResearchReportRequest" : "marketResearchReportRequest"
+    }
+  },
+  "requestResponseRecord" : {}
+}

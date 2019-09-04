@@ -1,0 +1,15 @@
+{
+  "generalMarketResearchDirectoryEntryInstanceRecord" : {
+    "generalMarketResearchViewpointType" : "generalMarketResearchViewpointType",
+    "referencedMarketResearchRecord" : {
+      "marketResearchReportVersionPeriod" : "marketResearchReportVersionPeriod",
+      "marketResearchReportTypeDefinition" : "marketResearchReportTypeDefinition",
+      "marketResearchReport" : {}
+    },
+    "generalMarketResearchViewpointDescription" : "generalMarketResearchViewpointDescription"
+  },
+  "generalMarketResearchDirectoryEntryRegisterActionRecord" : {},
+  "generalMarketResearchDirectoryEntryRegisterActionReference" : "GMRDERAR740460",
+  "generalMarketResearchDirectoryEntryInstanceReference" : "GMRDEIR760262",
+  "generalMarketResearchDirectoryEntryInstanceStatus" : "generalMarketResearchDirectoryEntryInstanceStatus"
+}

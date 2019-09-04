@@ -1,0 +1,29 @@
+{
+  "generalMarketResearchDirectoryEntryRetrieveActionResponse" : "generalMarketResearchDirectoryEntryRetrieveActionResponse",
+  "generalMarketResearchDirectoryEntryInstanceRecord" : {
+    "generalMarketResearchViewpointType" : "generalMarketResearchViewpointType",
+    "referencedMarketResearchRecord" : {
+      "marketResearchReportVersionPeriod" : "marketResearchReportVersionPeriod",
+      "marketResearchReportTypeDefinition" : "marketResearchReportTypeDefinition",
+      "marketResearchReport" : {},
+      "marketResearchReportTypeReference" : "734394"
+    },
+    "generalMarketResearchViewpointDescription" : "generalMarketResearchViewpointDescription",
+    "generalMarketResearchViewpointUsage" : {
+      "employeeBusinessUnitReference" : "798049",
+      "marketResearchReportRequest" : "marketResearchReportRequest"
+    }
+  },
+  "generalMarketResearchDirectoryEntryInstanceAnalysis" : {
+    "generalMarketResearchDirectoryEntryInstanceAnalysisReport" : {},
+    "generalMarketResearchDirectoryEntryInstanceAnalysisData" : "generalMarketResearchDirectoryEntryInstanceAnalysisData",
+    "generalMarketResearchDirectoryEntryInstanceAnalysisReportType" : "generalMarketResearchDirectoryEntryInstanceAnalysisReportType"
+  },
+  "generalMarketResearchDirectoryEntryRetrieveActionTaskRecord" : {},
+  "generalMarketResearchDirectoryEntryInstanceReportRecord" : {
+    "generalMarketResearchDirectoryEntryInstanceReportData" : "generalMarketResearchDirectoryEntryInstanceReportData",
+    "generalMarketResearchDirectoryEntryInstanceReport" : {},
+    "generalMarketResearchDirectoryEntryInstanceReportType" : "generalMarketResearchDirectoryEntryInstanceReportType"
+  },
+  "generalMarketResearchDirectoryEntryRetrieveActionTaskReference" : "GMRDERATR705874"
+}

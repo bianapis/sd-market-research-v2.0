@@ -1,0 +1,13 @@
+{
+  "generalMarketResearchDirectoryEntryUpdateActionTaskReference" : "GMRDEUATR706763",
+  "generalMarketResearchDirectoryEntryUpdateActionTaskRecord" : {},
+  "generalMarketResearchDirectoryEntryInstanceRecord" : {
+    "generalMarketResearchViewpointType" : "generalMarketResearchViewpointType",
+    "referencedMarketResearchRecord" : {
+      "marketResearchReportVersionPeriod" : "marketResearchReportVersionPeriod",
+      "marketResearchReportTypeReference" : "750367"
+    },
+    "generalMarketResearchViewpointDescription" : "generalMarketResearchViewpointDescription"
+  },
+  "updateResponseRecord" : {}
+}
